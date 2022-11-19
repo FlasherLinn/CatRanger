@@ -6548,7 +6548,7 @@ var Ob = function (a, b) {
 		]
 	};
 	this.l4 = {
-		moves: 50,
+		moves: 51,
 		petsToRescue: 5,
 		drop: [0, 0, 2, 0, 3],
 		grid: [
